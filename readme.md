@@ -28,4 +28,5 @@
 </div>
 <br>
 <hr>
+
 ###  < I'm no different from others at the beginning, I have the same goals and purposes as many, but there will come a certain point when I will have something that will differentiate me from other competitors. >
