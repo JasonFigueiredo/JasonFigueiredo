@@ -1,32 +1,56 @@
-### Hi, I’m @JasonFigueiredo
-- 👀 I’m interested in PHP, Java Script, Css, Python, Mysql, Java, Nodejs, UI/UX Designer.
-- 🌱 I’m currently learning PHP, Js, Css, Html, Myslq...
-- 💞️ I'm looking to develop my skills.
-- 📫 Get in touch here (jasonlopes132@gmail.com).
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Jason+Figueiredo!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+  </a>
+</p>
 
-<hr>
+</br>
 
-![JasonFigueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonFigueiredo&show_icons=true&theme=radical)
-
-<hr>
-
-### Tecnologias usadas no meu dia a dia !
-
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img aling="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img aling="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="MySlq" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<div align="center">
+    👨‍💻 Estudo Análize e desenvolvimento de sistemas pela FIAP 🖥️
+</br>
+    🌐 Curso em desenvolvimento WEB com PHP, JavaScript, MySql 🌐
 </div>
 
-### API's utilizadas
-<div>
- <img aling="center" alt="visualCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img aling="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-</div>
-<br>
-<hr>
+</br>
 
-###  < Quero contribuir com minha paixão por tecnologia e minha capacidade de adaptação e aprendizado rápido, onde posso trazer um impacto positivo e continuar a expandir meu conhecimento e habilidades. >
+<div align="center">
+  <a href="https://github.com/JasonFigueiredo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JasonFigueiredo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonFigueiredo&layout=compact&langs_icons=true&theme=radical"/>
+</div>
+
+</br>
+
+<div align="center">
+🗂️ Tenho projetos utilizando tecnologias como:
+</div>
+
+<div style="display: inline_block" align="center"><br>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,bootstrap,figma" />
+      </a>
+    </p>
+</div>
+
+<div align="center">
+🚀 Estou aperfeiçoando minhas abilidades em:
+</div>
+
+</br>
+
+<div align="center">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></br>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
+</div>
+
+<div align="center">
+🚀 Estou aperfeiçoando minhas abilidades em:
+</div>
