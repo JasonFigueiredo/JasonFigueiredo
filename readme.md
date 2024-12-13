@@ -50,7 +50,3 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
 </div>
-
-<div align="center">
-🚀 Estou aperfeiçoando minhas abilidades em:
-</div>
