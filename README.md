@@ -1,23 +1,51 @@
-# Meu README
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Jason+Figueiredo!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
+  </a>
+</p>
 
-Bem-vindo ao meu perfil!
+</br>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonFigueiredo&theme=radical)
+<div align="center">
+    👨‍💻 Estudo Análise e Desenvolvimento de Sistemas pela FIAP 🖥️
+</br>
+    🌐 Curso em desenvolvimento WEB com PHP, JavaScript, MySql 🌐
+</div>
 
-## Sobre Mim
+</br>
 
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/JasonFigueiredo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonFigueiredo&layout=compact&langs_count=8&theme=radical" width="335"/>
+  </a>
+</div>
+</br>
 
-## Projetos
+<div align="center">
+🗂️ Tenho projetos utilizando tecnologias como:
+</div>
 
-- Projeto 1
-- Projeto 2
+<div style="display: inline_block" align="center"><br>
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,bootstrap,figma" />
+      </a>
+    </p>
+</div>
 
-## Contato
+<div align="center">
+🚀 Estou aperfeiçoando minhas habilidades em:
+</div>
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jasonfigueiredo/).
+</br>
 
-## Redes Sociais
-
-- GitHub: [JasonFigueiredo](https://github.com/JasonFigueiredo)
-- Twitter: [@JasonFigueiredo](https://twitter.com/JasonFigueiredo)
+<div align="center">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></br>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
+</div>
