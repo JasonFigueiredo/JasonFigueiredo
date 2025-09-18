@@ -1,20 +1,23 @@
-# Olá, sou Jason Figueiredo!
+# Meu README
 
-Aqui está um pouco sobre mim:
+Bem-vindo ao meu perfil!
 
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=JasonFigueiredo&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonFigueiredo&theme=radical)
 
 ## Sobre Mim
 
-- Sou desenvolvedor de software apaixonado por tecnologia.
-- Gosto de aprender novas linguagens de programação e ferramentas.
+Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo.
 
 ## Projetos
 
-- Projeto 1: Descrição do projeto 1
-- Projeto 2: Descrição do projeto 2
+- Projeto 1
+- Projeto 2
 
 ## Contato
 
-- Email: jason@example.com
-- LinkedIn: [Jason Figueiredo](https://www.linkedin.com/in/jasonfigueiredo/)
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jasonfigueiredo/).
+
+## Redes Sociais
+
+- GitHub: [JasonFigueiredo](https://github.com/JasonFigueiredo)
+- Twitter: [@JasonFigueiredo](https://twitter.com/JasonFigueiredo)
